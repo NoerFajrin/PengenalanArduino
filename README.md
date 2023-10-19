@@ -27,9 +27,16 @@ Komunitas dan Sumber Daya: Arduino Uno memiliki komunitas yang besar dan beragam
   Serial.begin(9600);<br>
 }<br>
 <br>void loop() {
- <br> // Print "Hello, World!" to the serial monitor
- <br> Serial.println("Hello, World!");
- <br> delay(1000); // Wait for a second
+ <br> Serial.println("STEI-ITB");
+ <br> Serial.println("Jatinangor 2023");
+<br> Serial.print("Provinsi : ");
+<br> Serial.println("Jawa Barat");
+ <br> delay(1000); 
 <br>}
+6. output
+![image](https://github.com/NoerFajrin/PengenalanArduino/assets/71316603/e879fae7-e665-402d-bb07-b0f5e03a09b8)
+
+7. Ganti Tulisan dengan Nama dan NIM di baris yang berbeda
+
 
 
