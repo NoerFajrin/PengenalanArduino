@@ -42,7 +42,7 @@ Komunitas dan Sumber Daya: Arduino Uno memiliki komunitas yang besar dan beragam
 # Digital Read
 <br> https://wokwi.com/projects/379059728820253697
 <br>
-# Logic 
+# Logic On / Off
 
 
 
