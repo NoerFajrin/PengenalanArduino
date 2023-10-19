@@ -13,3 +13,23 @@ Penyuplai Daya: Arduino Uno dapat diberi daya melalui kabel USB atau melalui ada
 Pemrograman: Anda dapat memprogram Arduino Uno menggunakan bahasa pemrograman Arduino yang berbasis C/C++. Arduino IDE (Integrated Development Environment) adalah perangkat lunak yang umumnya digunakan untuk mengembangkan dan mengunggah kode ke papan Arduino.
 
 Komunitas dan Sumber Daya: Arduino Uno memiliki komunitas yang besar dan beragam, serta banyak sumber daya belajar dan proyek tersedia secara online. Ini membuatnya menjadi pilihan yang bagus untuk pemula yang ingin mempelajari pemrograman mikrokontroler.
+
+# Simulasi Online
+1. Buka : https://wokwi.com/arduino
+2. Scroll sampai start from Scratch
+   ![image](https://github.com/NoerFajrin/PengenalanArduino/assets/71316603/b5b45b59-75d3-435d-afd2-fd5a82f78df4)
+3. Pilih Arduino uno
+4. Cetak Teks
+   ![image](https://github.com/NoerFajrin/PengenalanArduino/assets/71316603/ae6693b7-b5d5-4db2-a90e-dd307a1ceefe)
+   code :
+<br>void setup() {
+ <br> // Initialize serial communication at a baud rate of 9600
+  Serial.begin(9600);<br>
+}<br>
+<br>void loop() {
+ <br> // Print "Hello, World!" to the serial monitor
+ <br> Serial.println("Hello, World!");
+ <br> delay(1000); // Wait for a second
+<br>}
+
+
