@@ -40,6 +40,7 @@ Komunitas dan Sumber Daya: Arduino Uno memiliki komunitas yang besar dan beragam
 8. Ganti Tulisan dengan Nama dan NIM di baris yang berbeda
 <br>
 # Digital Read
+<br>
 https://wokwi.com/projects/379059728820253697
 
 
