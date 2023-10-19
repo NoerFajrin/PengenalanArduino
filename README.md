@@ -35,8 +35,9 @@ Komunitas dan Sumber Daya: Arduino Uno memiliki komunitas yang besar dan beragam
 <br>}
 6. output
 ![image](https://github.com/NoerFajrin/PengenalanArduino/assets/71316603/e879fae7-e665-402d-bb07-b0f5e03a09b8)
+<br> https://wokwi.com/projects/379058588915307521
 
-7. Ganti Tulisan dengan Nama dan NIM di baris yang berbeda
+8. Ganti Tulisan dengan Nama dan NIM di baris yang berbeda
 
 
 
