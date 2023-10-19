@@ -24,8 +24,8 @@ Komunitas dan Sumber Daya: Arduino Uno memiliki komunitas yang besar dan beragam
    code :
 <br>void setup() {
  <br> // Initialize serial communication at a baud rate of 9600
-  Serial.begin(9600);<br>
-}<br>
+ <br> Serial.begin(9600);
+ <br>}
 <br>void loop() {
  <br> Serial.println("STEI-ITB");
  <br> Serial.println("Jatinangor 2023");
