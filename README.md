@@ -37,11 +37,12 @@ Komunitas dan Sumber Daya: Arduino Uno memiliki komunitas yang besar dan beragam
 ![image](https://github.com/NoerFajrin/PengenalanArduino/assets/71316603/e879fae7-e665-402d-bb07-b0f5e03a09b8)
 <br> https://wokwi.com/projects/379058588915307521
 
-8. Ganti Tulisan dengan Nama dan NIM di baris yang berbeda
-<br>
+7. Ganti Tulisan dengan Nama dan NIM di baris yang berbeda
+
 # Digital Read
+<br> https://wokwi.com/projects/379059728820253697
 <br>
-https://wokwi.com/projects/379059728820253697
+# Logic 
 
 
 
