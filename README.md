@@ -53,6 +53,9 @@ Komunitas dan Sumber Daya: Arduino Uno memiliki komunitas yang besar dan beragam
 <br>
 # LCD i2c
 <br> https://wokwi.com/projects/379062095276075009
-
+# LCD i2c with DHT
+<br> https://wokwi.com/projects/379061989241959425
+<br> Buat Logic Jika Suhu Panas Lampu menyala,
+<br> Jika Himidity Rendah Lampu Menyala
 
 
