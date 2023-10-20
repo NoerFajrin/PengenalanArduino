@@ -57,5 +57,8 @@ Komunitas dan Sumber Daya: Arduino Uno memiliki komunitas yang besar dan beragam
 <br> https://wokwi.com/projects/379061989241959425
 <br> Buat Logic Jika Suhu Panas Lampu menyala,
 <br> Jika Himidity Rendah Lampu Menyala
+<br>
+# LCD, DHT, Output
+<br> https://wokwi.com/projects/379063557362330625
 
 
