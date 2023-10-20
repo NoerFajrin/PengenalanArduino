@@ -50,6 +50,9 @@ Komunitas dan Sumber Daya: Arduino Uno memiliki komunitas yang besar dan beragam
 <br>
 # Sensor DHT
 <br> https://wokwi.com/projects/379061366879545345
+<br>
+# LCD i2c
+<br> https://wokwi.com/projects/379062095276075009
 
 
 
