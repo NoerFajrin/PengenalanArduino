@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T06:30:16.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="24.0.1" etag="ad7xEF9fe52exXvmENWK" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T07:03:38.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DQnvMLuogWaK_YSXqoQ8" version="24.0.1" type="github">
   <diagram name="Page-1" id="nfLmqP0aIOFqjamlz-LX">
-    <mxGraphModel>
+    <mxGraphModel dx="1257" dy="599" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ypvccT9BhRPl8u8Dt1xQ-7" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;align=left;" vertex="1" parent="1">
+          <mxGeometry x="11" y="151" width="141" height="302" as="geometry" />
+        </mxCell>
+        <mxCell id="ypvccT9BhRPl8u8Dt1xQ-10" value="Long Before Validation&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="38" y="112" width="99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ypvccT9BhRPl8u8Dt1xQ-11" value="Validation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="213" y="112" width="99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ypvccT9BhRPl8u8Dt1xQ-12" value="final decision" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="388" y="112" width="99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ypvccT9BhRPl8u8Dt1xQ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ypvccT9BhRPl8u8Dt1xQ-13" target="ypvccT9BhRPl8u8Dt1xQ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ypvccT9BhRPl8u8Dt1xQ-13" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="192" y="151" width="141" height="301" as="geometry" />
+        </mxCell>
+        <mxCell id="ypvccT9BhRPl8u8Dt1xQ-14" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="365" y="154" width="141" height="296" as="geometry" />
+        </mxCell>
+        <mxCell id="ypvccT9BhRPl8u8Dt1xQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ypvccT9BhRPl8u8Dt1xQ-15" target="ypvccT9BhRPl8u8Dt1xQ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ypvccT9BhRPl8u8Dt1xQ-15" value="Confess" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="551" y="284.25" width="78" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ypvccT9BhRPl8u8Dt1xQ-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ypvccT9BhRPl8u8Dt1xQ-7" target="ypvccT9BhRPl8u8Dt1xQ-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399" y="246" as="sourcePoint" />
+            <mxPoint x="449" y="196" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ypvccT9BhRPl8u8Dt1xQ-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ypvccT9BhRPl8u8Dt1xQ-14" target="ypvccT9BhRPl8u8Dt1xQ-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399" y="246" as="sourcePoint" />
+            <mxPoint x="449" y="196" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ypvccT9BhRPl8u8Dt1xQ-20" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="664" y="162.5" width="141" height="279" as="geometry" />
+        </mxCell>
+        <mxCell id="ypvccT9BhRPl8u8Dt1xQ-21" value="Waiting Room" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="676" y="117" width="99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ypvccT9BhRPl8u8Dt1xQ-29" value="&lt;ol&gt;&lt;li&gt;Muncul beraneka ragam sosok perempuan yang hadir&lt;/li&gt;&lt;li&gt;ada yang bikin ilfil&lt;/li&gt;&lt;li&gt;ada juga yang masuk probabilitasnya padlan&lt;/li&gt;&lt;li&gt;tapi semuanya di respon dengan kadar yang berbeda tentunya&amp;nbsp;&lt;/li&gt;&lt;li&gt;ada satu nama yang dirasa klik&lt;/li&gt;&lt;li&gt;tapi tiba tiba nama hani muncul&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="156" width="146" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="ypvccT9BhRPl8u8Dt1xQ-30" value="&lt;ol&gt;&lt;li&gt;Cerita lah ke rinrin tentang kemunculan nama hani ini&lt;/li&gt;&lt;li&gt;dan rinrin sangat subjektif ketika diminta penilaian, dan hanya ingin padlan fokus ke hani&lt;/li&gt;&lt;li&gt;sampai akhirnya padlan memutuskan untuk fokus ke hani tidak lagi dengan nama yang di rasa klik itu&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="174" y="160" width="146" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="ypvccT9BhRPl8u8Dt1xQ-31" value="&lt;ol&gt;&lt;li&gt;Menyudahi segala drama dengan sosok nama tersebut, dan komitmen menjadi teman saja&lt;/li&gt;&lt;li&gt;fokus ke hani, dan memberanikan diri confess&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="160.5" width="146" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="ypvccT9BhRPl8u8Dt1xQ-32" value="Tidak akan bahas ini karena hani terlibat langsung" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540.5" y="204" width="99" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="ypvccT9BhRPl8u8Dt1xQ-34" value="&lt;ol&gt;&lt;li&gt;Padlan jadi lebay&lt;/li&gt;&lt;li&gt;di read doang uring uringan, wkwkwk&lt;/li&gt;&lt;li&gt;fokus support hani mewujudkan mimpinya yang sudah terancang, karena jauh sebelum padlan confess, hani sudah merancang kembali hidupnya di masa depan&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="644" y="160" width="146" height="258" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
