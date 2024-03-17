@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-17T09:56:29.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_6iDjgTbGa_SrG1B-1HZ" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-17T10:34:56.656Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tb3cGzsam2pjV-wBc16o" version="24.0.2" type="github" pages="2">
   <diagram name="Page-1" id="KE8YWrstz8G23kHHFaBu">
     <mxGraphModel dx="880" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -80,6 +80,62 @@
         </mxCell>
         <mxCell id="fsU-2ZH51Y9HuJiAe0hW-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="280" height="600" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kB6WN82JoLCxE1j8Iu43" name="Page-2">
+    <mxGraphModel dx="880" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sBsCj3RgM0HMkNQ35Agz-2" value="Dummy&amp;nbsp; Device&amp;nbsp;&lt;div&gt;(Wind Turbine)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="300" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlOfnm5hJQ241W1IoViD-1" value="DataBase" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="270" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vlOfnm5hJQ241W1IoViD-6" value="&lt;i&gt;&lt;b&gt;Web Base Application&lt;/b&gt;&lt;/i&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;i&gt;monitoring Dummy Device&lt;/i&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;i&gt;Simulasi Perhitungan Produksi Daya dari Wind Turbine&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="640" y="245" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="vlOfnm5hJQ241W1IoViD-8" value="Http Request" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vlOfnm5hJQ241W1IoViD-9" value="Post Method" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vlOfnm5hJQ241W1IoViD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sBsCj3RgM0HMkNQ35Agz-2" target="vlOfnm5hJQ241W1IoViD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vlOfnm5hJQ241W1IoViD-12" value="Http Request" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vlOfnm5hJQ241W1IoViD-14" value="Get&lt;div&gt;Method&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vlOfnm5hJQ241W1IoViD-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vlOfnm5hJQ241W1IoViD-1" target="vlOfnm5hJQ241W1IoViD-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="430" as="sourcePoint" />
+            <mxPoint x="620" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vlOfnm5hJQ241W1IoViD-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="205" y="230" width="235" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vlOfnm5hJQ241W1IoViD-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="450" y="230" width="380" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vlOfnm5hJQ241W1IoViD-19" value="Dummy Base on IoT System" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="230" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vlOfnm5hJQ241W1IoViD-20" value="Web Base Application" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="230" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vlOfnm5hJQ241W1IoViD-21" value="Input" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="400" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vlOfnm5hJQ241W1IoViD-22" value="Proses dan Output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="400" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
