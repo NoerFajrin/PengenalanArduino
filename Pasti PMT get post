@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T08:07:31.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="24.3.1" etag="w8_zxM7gtNp6aSuEZqnD" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T08:45:02.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="yfzMhfO1ktULY5E26DOO" version="24.3.1" type="github">
   <diagram name="Page-1" id="2b73JR0PbHvfRBQKLpnv">
-    <mxGraphModel>
+    <mxGraphModel dx="1032" dy="548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VdlR03NrNcKkL1rkhfF8-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VdlR03NrNcKkL1rkhfF8-1" target="VdlR03NrNcKkL1rkhfF8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VdlR03NrNcKkL1rkhfF8-1" value="Pasti" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="160" y="110" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VdlR03NrNcKkL1rkhfF8-2" value="Usulan diproses + Nodin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VdlR03NrNcKkL1rkhfF8-5" value="Post" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VdlR03NrNcKkL1rkhfF8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VdlR03NrNcKkL1rkhfF8-6" target="VdlR03NrNcKkL1rkhfF8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VdlR03NrNcKkL1rkhfF8-6" value="PMT" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="550" y="110" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VdlR03NrNcKkL1rkhfF8-8" value="Get" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VdlR03NrNcKkL1rkhfF8-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VdlR03NrNcKkL1rkhfF8-10" target="VdlR03NrNcKkL1rkhfF8-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VdlR03NrNcKkL1rkhfF8-10" value="PMT" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="170" y="195" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VdlR03NrNcKkL1rkhfF8-11" value="Usulan diproses + Nodin + Perubahan Status (Lanjut/ delivery/ installasi/ oprasional/ rekolasi/ terminisasi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VdlR03NrNcKkL1rkhfF8-12" value="Post" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VdlR03NrNcKkL1rkhfF8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VdlR03NrNcKkL1rkhfF8-14" target="VdlR03NrNcKkL1rkhfF8-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VdlR03NrNcKkL1rkhfF8-14" value="Pasti" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="540" y="195" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VdlR03NrNcKkL1rkhfF8-15" value="Get" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VdlR03NrNcKkL1rkhfF8-19" value="Perubahan status dilakukan PMT, pasti hanya get data tersebut" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="274" y="266" width="251" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
